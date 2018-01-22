@@ -1,2 +1,3 @@
 # hello-world
 trying it out
+I am working my way through an introductory Python course and, as a part of that course, trying to familiarize myself with Git and GitHub. I have some basic programming knowledge from my time working as a Biomedical Engineer at the University of Calgary. This is far less humorous than the example...
